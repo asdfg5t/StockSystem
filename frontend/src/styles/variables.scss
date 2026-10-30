@@ -1,0 +1,44 @@
+$primary-color: #3DD0B6;
+$primary-light: #6EDCC8;
+$primary-lighter: #B3EDE3;
+$primary-lightest: #E8F8F4;
+$primary-dark: #2BBDA5;
+
+$accent-color: #36CFC9;
+$accent-light: #87E8DE;
+
+$bg-color: #F0F2F5;
+$bg-white: #FFFFFF;
+$border-color: #E8ECF0;
+$border-light: #F0F2F5;
+
+$sidebar-bg: #FFFFFF;
+$sidebar-border: #E8ECF0;
+$sidebar-text: #5A6474;
+$sidebar-text-active: $primary-color;
+$sidebar-hover-bg: $primary-lightest;
+
+$text-primary: #1D2129;
+$text-regular: #4E5969;
+$text-secondary: #86909C;
+$text-placeholder: #C9CDD4;
+
+$success-color: #52C41A;
+$warning-color: #FAAD14;
+$danger-color: #F5222D;
+$info-color: #86909C;
+
+$sidebar-width: 240px;
+$sidebar-collapse-width: 64px;
+$header-height: 56px;
+
+$chart-colors: (
+  #3DD0B6,
+  #36CFC9,
+  #FAAD14,
+  #F5222D,
+  #722ED1,
+  #13C2C2,
+  #2F54EB,
+  #FA8C16,
+);

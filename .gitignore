@@ -1,0 +1,46 @@
+# Dependencies and caches
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.idea/
+.vscode/
+.claude/
+.codex/
+.agents/
+.DS_Store
+Thumbs.db
+
+# Generated data, weights and research outputs
+/data/
+/saved_models/
+/logs/
+/outputs/
+/smart_results/
+/train_results/
+/paper_results/
+/universal_results/
+*.log
+*.pth
+*.pt
+*.pkl
+*.joblib
+*.sql.gz
+*.sqlite*
+*.docx
+*.pptx
+/yaoqiu.txt
+dist/
+coverage/
+.verification/

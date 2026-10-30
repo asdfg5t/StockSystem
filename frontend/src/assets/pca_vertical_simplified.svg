@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <defs>
+    <style>
+      .box {
+        fill: #ffffff;
+        stroke: #222222;
+        stroke-width: 2;
+      }
+      .t1 {
+        font-family: "Microsoft YaHei", "PingFang SC", "Noto Sans SC", Arial, sans-serif;
+        font-size: 28px;
+        fill: #222222;
+        text-anchor: middle;
+      }
+      .t2 {
+        font-family: "Microsoft YaHei", "PingFang SC", "Noto Sans SC", Arial, sans-serif;
+        font-size: 24px;
+        fill: #222222;
+        text-anchor: middle;
+      }
+      .arrow {
+        stroke: #222222;
+        stroke-width: 2.4;
+        fill: none;
+        marker-end: url(#arrowHead);
+      }
+    </style>
+    <marker id="arrowHead" markerWidth="10" markerHeight="10" refX="7" refY="3.5" orient="auto">
+      <polygon points="0 0, 8 3.5, 0 7" fill="#222222"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="1200" fill="#f7f7f7"/>
+
+  <g transform="translate(130,40)">
+    <rect class="box" x="0" y="0" width="640" height="84" rx="18" ry="18"/>
+    <text class="t1" x="320" y="36">üÀyÅÈ5</text>
+    <text class="t2" x="320" y="68">XR(n◊72)</text>
+
+    <line class="arrow" x1="320" y1="84" x2="320" y2="114"/>
+    <rect class="box" x="0" y="114" width="640" height="72" rx="18" ry="18"/>
+    <text class="t2" x="320" y="158">∆≠√∆ﬂ	</text>
+
+    <line class="arrow" x1="320" y1="186" x2="320" y2="216"/>
+    <rect class="box" x="0" y="216" width="640" height="84" rx="18" ry="18"/>
+    <text class="t2" x="320" y="252">Z-Score ∆</text>
+    <text class="t2" x="320" y="282">X'=(X-º)/√</text>
+
+    <line class="arrow" x1="320" y1="300" x2="320" y2="330"/>
+    <rect class="box" x="0" y="330" width="640" height="84" rx="18" ry="18"/>
+    <text class="t2" x="320" y="366">OπÓÈ5</text>
+    <text class="t2" x="320" y="396">C=(1/(n-1))X'^T X'</text>
+
+    <line class="arrow" x1="320" y1="414" x2="320" y2="444"/>
+    <rect class="box" x="0" y="444" width="640" height="72" rx="18" ry="18"/>
+    <text class="t2" x="320" y="488">yÅ„  C v = ª v</text>
+
+    <line class="arrow" x1="320" y1="516" x2="320" y2="546"/>
+    <rect class="box" x="0" y="546" width="640" height="72" rx="18" ry="18"/>
+    <text class="t2" x="320" y="590">yÅ<Mè  ª1e&eª72</text>
+
+    <line class="arrow" x1="320" y1="618" x2="320" y2="648"/>
+    <rect class="box" x="0" y="648" width="640" height="90" rx="18" ry="18"/>
+    <text class="t2" x="320" y="686">	Mk*;</text>
+    <text class="t2" x="320" y="718">/°πÓe95%kH25</text>
+
+    <line class="arrow" x1="320" y1="738" x2="320" y2="768"/>
+    <rect class="box" x="0" y="768" width="640" height="72" rx="18" ry="18"/>
+    <text class="t2" x="320" y="812">ïqÈ5  W=[v1,&,vk]</text>
+
+    <line class="arrow" x1="320" y1="840" x2="320" y2="870"/>
+    <rect class="box" x="0" y="870" width="640" height="84" rx="18" ry="18"/>
+    <text class="t2" x="320" y="906">MÙ”ú</text>
+    <text class="t2" x="320" y="936">Z=X'W R(n◊25)</text>
+
+    <line class="arrow" x1="320" y1="954" x2="320" y2="984"/>
+    <rect class="box" x="0" y="984" width="640" height="86" rx="18" ry="18"/>
+    <text class="t2" x="320" y="1022">ìeÒ¶f`!ã</text>
+    <text class="t2" x="320" y="1052">BiLSTM / Transformer / TFT</text>
+  </g>
+</svg>
